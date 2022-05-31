@@ -1,0 +1,10 @@
+{
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "start",
+            "path": "bookshop/gen/srv/",
+            "label": "npm: start - bookshop/gen/srv"
+        }
+    ]
+}
